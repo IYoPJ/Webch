@@ -6,7 +6,7 @@ print('''
 		Dictionary web  👣
 		+ The developer : Salman - IYoPJ +
 		
-		snapchat : IYoPJ € 
+		insta : IYoPJJ € 
 
 ------------------------------------------
 ''')
